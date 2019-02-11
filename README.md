@@ -6,4 +6,3 @@ Golang Terminal Reddit
 - Login
 - Create layout
 - Create movement patterns
-- 
